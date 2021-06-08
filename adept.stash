@@ -2,7 +2,9 @@
     "adept.stash": {
         "minSpecVersion": 1,
         "lastUpdated": 1595725363,
-	"latestCompilerVersion": "2.3"
+	"latestCompilerVersion": "2.4"
     },
-    "children": {}
+    "children": {
+        "box2d": "https://raw.githubusercontent.com/IsaacShelton/Box2D/master/Box2D.stash"
+    }
 }
