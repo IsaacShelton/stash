@@ -6,6 +6,7 @@
     },
     "children": {
         "box2d": "https://raw.githubusercontent.com/IsaacShelton/Box2D/master/Box2D.stash",
-        "base64": "https://raw.githubusercontent.com/IsaacShelton/Base64/master/base64.stash"
+        "base64": "https://raw.githubusercontent.com/IsaacShelton/Base64/master/base64.stash",
+	"sailboat": "https://raw.githubusercontent.com/IsaacShelton/Sailboat/master/Sailboat.stash"
     }
 }
